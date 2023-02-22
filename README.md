@@ -1,7 +1,8 @@
-# Software-Test-Automation_COURSE
-JUnit Testing - Java
+
+
 
 # Software Test Automation 
+JUnit Testing - Java
 ### Jad Alrehaoui
 ##### Setup & Configuration
 For this project I used IntelliJ IDEA on mac. 
